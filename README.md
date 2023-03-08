@@ -1,6 +1,6 @@
 # controlnet-discord-bot
 
-A simple (not really tho) example of a discord bot which runs huggingface [diffusers](https://huggingface.co/docs/diffusers/index) [controlnet pipeline](https://github.com/lllyasviel/ControlNet) (the canny edges one, to be specific) in response to a slash command (`/cannyremix <prompt>`)with an input image attachment, and a prompt after the slash-command.
+A simple (not really tho) example of a discord bot which runs huggingface [diffusers](https://huggingface.co/docs/diffusers/index) [controlnet pipeline](https://github.com/lllyasviel/ControlNet) (the canny edges one, to be specific) in response to a slash command (`/cannyremix <prompt>`) with an input image attachment.
 
 It is by no means complete, but should serve as a decent starting point for anyone who wants to implement a discord-bot interface to huggingface's diffusers pipelines.
 
