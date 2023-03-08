@@ -1,5 +1,4 @@
 # controlnet-discord-bot
-### example)
 
 A simple (not really tho) example of a discord bot which runs huggingface [diffusers](https://huggingface.co/docs/diffusers/index) [controlnet pipeline](https://github.com/lllyasviel/ControlNet) (the canny edges one, to be specific) in response to a slash command (`/cannyremix <prompt>`)with an input image attachment, and a prompt after the slash-command.
 
